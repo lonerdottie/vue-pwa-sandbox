@@ -1,0 +1,11 @@
+{
+  "name": "vue-tests",
+  "version": "0.0.1",
+  "description": "a test bed for jumpstaring vuejs development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david@newbrains.net",
+  "license": "UNLICENSED"
+}
